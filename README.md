@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data structure and Algorithm**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AbdElMegeed-7?tab=repositories](https://github.com/AbdElMegeed-7?tab=repositories)
+- 👨‍💻 Sample of projects are available at [https://github.com/AbdElMegeed-7?tab=repositories](https://github.com/AbdElMegeed-7?tab=repositories)
 
 - 💬 Ask me about **Python, Django, Problem solving**
 
